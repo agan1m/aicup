@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1fa3a9e-5af2-42c7-8873-17501dcb7e7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Debug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enumerable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParametricLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Bullet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/BulletParams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/BulletParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ColorFloat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ColorFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ColoredVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ColoredVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/CustomData$Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/CustomData$Log.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/CustomData$Polygon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/CustomData$Rect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/CustomData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/CustomData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ExplosionParams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ExplosionParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Item$HealthPack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Item$Mine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Item$Weapon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/JumpState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/JumpState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Level.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/LootBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/LootBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Mine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Mine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/MineState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/MineState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/PlayerMessageGame$ActionMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/PlayerMessageGame$CustomDataMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/PlayerMessageGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/PlayerMessageGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/PlayerView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/PlayerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Properties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Properties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ServerMessageGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/ServerMessageGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Tile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Unit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/UnitAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/UnitAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Vec2Double.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Vec2Double.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Vec2Float.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Vec2Float.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Weapon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/WeaponParams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/WeaponParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/WeaponType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/WeaponType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/Debug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/MyStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/ParametricLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Bullet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/BulletParams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/ColorFloat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/ColoredVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/CustomData$Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/CustomData$Log.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/CustomData$Polygon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/CustomData$Rect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/CustomData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/ExplosionParams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Item$HealthPack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Item$Mine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Item$Weapon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/JumpState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Level.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/LootBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Mine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/MineState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/PlayerMessageGame$ActionMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/PlayerMessageGame$CustomDataMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/PlayerMessageGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/PlayerView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Properties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/ServerMessageGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Tile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Unit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/UnitAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Vec2Double.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Vec2Float.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/Weapon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/WeaponParams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/model/WeaponType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/util/StreamUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/StreamUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/StreamUtil.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UHrnnn5U7cDdCEApbQ3BmaG7iU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1fa3a9e-5af2-42c7-8873-17501dcb7e7d" name="Default Changelist" comment="" />
+      <created>1575024530031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575024530031</updated>
+      <workItem from="1575024534172" duration="13492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
